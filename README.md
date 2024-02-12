@@ -1,0 +1,1 @@
+"# CustomQueriesInSpringBootUsing2Entities" 
